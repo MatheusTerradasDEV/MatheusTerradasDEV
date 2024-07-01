@@ -36,7 +36,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)&nbsp;
 
 
-<img src="https://github.com/MatheusTerradasDEV/MatheusTerradas/assets/163323139/6a788e23-1c1e-48bf-a4e0-3a974e9ab37a" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/MatheusTerradasDEV/MatheusTerradasDEV/assets/163323139/dda5fa5b-67cb-4455-9b72-6c9b59d23734" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 #### Studying in this moment:
