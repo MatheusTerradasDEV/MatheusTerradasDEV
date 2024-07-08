@@ -65,5 +65,12 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusTerradasDEV/MatheusTerradasDEV/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MatheusTerradasDEV/MatheusTerradasDEV/output/github-contribution-grid-snake.svg">
 </picture>
+<br>
+<br>
+
+<div align="center">
+  
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31662zb47v4mfnmvp5ij4hcag7ga&unique={true|1|on|yes})
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4177BF&height=120&section=footer"/>
